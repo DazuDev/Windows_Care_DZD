@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b8fd3c6f8d9b29",
+        "id": "8d574e3d6afbaf02",
         "type": "tabs",
         "children": [
           {
-            "id": "072d935486cc88ed",
+            "id": "8667578d50fb3deb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU/Opciones de energía.md",
+                "file": "CPU/Temporizador de eventos de alta precisión.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "8d6e02990f93aa49"
+            "group": "91df8d9b168f2e43"
           }
         ]
       },
       {
-        "id": "83015fc9fd30a207",
+        "id": "38f7704415c76510",
         "type": "tabs",
         "children": [
           {
-            "id": "e9307cdcf5b64cf7",
+            "id": "2c8115b79e0c182b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU/Opciones de energía.md",
+                "file": "CPU/Temporizador de eventos de alta precisión.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "8d6e02990f93aa49"
+            "group": "91df8d9b168f2e43"
           }
         ]
       }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU/Opciones de energía.md",
+                "file": "CPU/Temporizador de eventos de alta precisión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU/Opciones de energía.md",
+                "file": "CPU/Temporizador de eventos de alta precisión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,15 +156,28 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "e9307cdcf5b64cf7",
+  "active": "8667578d50fb3deb",
   "lastOpenFiles": [
+    "IMG/Device-manager-system-devices-high-precision-event-timer.png",
+    "CPU/Temporizador de eventos de alta precisión.md",
+    "CPU/Deshabilitar servicios.md",
+    "CPU/Aplicaciones de inicio.md",
+    "IMG/Services-Web-Account-Manager.png",
+    "Energía/Opciones de energía.md",
+    "IMG/Services.png",
+    "IMG/Task-manager-startup-apps.png",
+    "Energía.md",
+    "Energía",
+    "IMG/Proccessor-power-management-performance.png",
+    "IMG/Proccessor-power-management.png",
+    "README.md",
     "IMG/Edit-power-plan.png",
-    "CPU/Opciones de energía.md",
+    "IMG/Change-plan-settings.png",
+    "IMG/Energy-Options.png",
     "IMG",
     "CPU",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "README.md"
+    "Untitled.canvas"
   ]
 }

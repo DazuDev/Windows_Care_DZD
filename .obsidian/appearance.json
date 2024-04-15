@@ -1,9 +1,10 @@
 {
-  "accentColor": "#00fffb",
-  "cssTheme": "Blue Topaz",
+  "accentColor": "#ff0019",
+  "cssTheme": "Obsidian Nord",
   "textFontFamily": "Futura",
   "interfaceFontFamily": "Futura",
   "showViewHeader": true,
   "nativeMenus": true,
-  "monospaceFontFamily": "Fira Code"
+  "monospaceFontFamily": "Inter",
+  "theme": "obsidian"
 }
