@@ -1,0 +1,9 @@
+{
+  "accentColor": "#00fffb",
+  "cssTheme": "Blue Topaz",
+  "textFontFamily": "Futura",
+  "interfaceFontFamily": "Futura",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "monospaceFontFamily": "Fira Code"
+}

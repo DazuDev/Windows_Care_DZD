@@ -1,0 +1,1 @@
+![Edit power plan](Edit-power-plan.png|300px)
