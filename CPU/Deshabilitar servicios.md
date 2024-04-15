@@ -1,4 +1,4 @@
-1. Busque **`Servicios`** y le aparecerá la siguiente ventana:
+1. Busque **`Servicios`** y le aparecerá la siguiente ventana: <br>
 ![[Services.png]]
 
 <br>
@@ -13,4 +13,4 @@
 	`Servicio de geolocalización` > ___Propiedades___ > *Tipo de inicio:* **Deshabilitado**
 	
 	`Servicio de panel de escritura a mano y teclado táctil` > ___Propiedades___ > *Tipo de inicio:* **Deshabilitado**
-	`SysMain` > ___Propiedades___ > *Tipo de inicio:* **Deshabilitado** <-- Si tiene un SSD, M.2, etc. déjenlo activado.
+	`SysMain` > ___Propiedades___ > *Tipo de inicio:* **Deshabilitado** <-- Si tiene un SSD, M.2, etc. NO lo modifique.

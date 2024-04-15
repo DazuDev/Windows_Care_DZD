@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarWindowRestore",
+      "SiGooglecloudstorage",
+      "SiWindowsterminal",
       "LiImages",
-      "LiBatteryCharging",
-      "LiCpu"
+      "LiBatteryCharging"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +33,8 @@
   },
   "CPU": "LiCpu",
   "Energía": "LiBatteryCharging",
-  "IMG": "LiImages"
+  "IMG": "LiImages",
+  "CMD": "SiWindowsterminal",
+  "Almacenamiento": "SiGooglecloudstorage",
+  "Características de Windows": "FarWindowRestore"
 }

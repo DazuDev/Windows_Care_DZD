@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d574e3d6afbaf02",
+        "id": "90dd4a9bf8bb6620",
         "type": "tabs",
         "children": [
           {
-            "id": "8667578d50fb3deb",
+            "id": "8d1384a93ee29e9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPU/Temporizador de eventos de alta precisión.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "91df8d9b168f2e43"
-          }
-        ]
-      },
-      {
-        "id": "38f7704415c76510",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2c8115b79e0c182b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPU/Temporizador de eventos de alta precisión.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "91df8d9b168f2e43"
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -90,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5110321044922
   },
   "right": {
     "id": "a61ebc711268afdb",
@@ -106,7 +82,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU/Temporizador de eventos de alta precisión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU/Temporizador de eventos de alta precisión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,24 +130,37 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "8667578d50fb3deb",
+  "active": "8d1384a93ee29e9a",
   "lastOpenFiles": [
-    "IMG/Device-manager-system-devices-high-precision-event-timer.png",
+    "CPU/Aplicaciones de inicio.md",
+    "Energía/Opciones avanzadas de energía.md",
+    "Energía/Editar plan de energía.md",
+    "Almacenamiento/Cuidado del almacenamiento.md",
+    "Almacenamiento/Desfragmentar y Optimizar unidades.md",
+    "Características de Windows/Configuración del sistema (MSConfig).md",
+    "Características de Windows/Desactivar tareas programadas.md",
+    "Características de Windows/Diagnostico de memoria de Windows.md",
+    "Características de Windows/Funciones de Windows.md",
+    "CMD/Verificar la integridad de Windows.md",
+    "IMG/Adjust-the-appearance-and-performance-of-Windows-advanced.png",
+    "IMG/Task-Scheduler.png",
+    "IMG/Windows-memory-diagnostic.png",
+    "IMG/Msconfig-services.png",
+    "CPU/Opciones de rendimiento.md",
     "CPU/Temporizador de eventos de alta precisión.md",
     "CPU/Deshabilitar servicios.md",
-    "CPU/Aplicaciones de inicio.md",
-    "IMG/Services-Web-Account-Manager.png",
-    "Energía/Opciones de energía.md",
-    "IMG/Services.png",
-    "IMG/Task-manager-startup-apps.png",
+    "IMG/Adjust-the-appearance-and-performance-of-Windows-visual-effects.png",
+    "IMG/Defragment-and-optimize-drives.png",
+    "IMG/Optionalfeatures.png",
+    "Características de Windows",
+    "IMG/Temporary-files.png",
+    "IMG/Settings-Apps.png",
+    "IMG/Settings-storage-sense.png",
+    "Almacenamiento",
+    "CMD",
     "Energía.md",
     "Energía",
-    "IMG/Proccessor-power-management-performance.png",
-    "IMG/Proccessor-power-management.png",
     "README.md",
-    "IMG/Edit-power-plan.png",
-    "IMG/Change-plan-settings.png",
-    "IMG/Energy-Options.png",
     "IMG",
     "CPU",
     "Untitled 2.canvas",
