@@ -6,5 +6,6 @@
   "showViewHeader": true,
   "nativeMenus": true,
   "monospaceFontFamily": "Inter",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "translucency": true
 }

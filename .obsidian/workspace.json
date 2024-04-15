@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90dd4a9bf8bb6620",
+        "id": "3cc3c50777ca08fa",
         "type": "tabs",
         "children": [
           {
-            "id": "8d1384a93ee29e9a",
+            "id": "03d5e20986921281",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -130,25 +130,25 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "8d1384a93ee29e9a",
+  "active": "03d5e20986921281",
   "lastOpenFiles": [
-    "CPU/Aplicaciones de inicio.md",
-    "Energía/Opciones avanzadas de energía.md",
-    "Energía/Editar plan de energía.md",
     "Almacenamiento/Cuidado del almacenamiento.md",
     "Almacenamiento/Desfragmentar y Optimizar unidades.md",
-    "Características de Windows/Configuración del sistema (MSConfig).md",
-    "Características de Windows/Desactivar tareas programadas.md",
-    "Características de Windows/Diagnostico de memoria de Windows.md",
-    "Características de Windows/Funciones de Windows.md",
     "CMD/Verificar la integridad de Windows.md",
+    "Características de Windows/Funciones de Windows.md",
+    "Características de Windows/Diagnostico de memoria de Windows.md",
+    "Características de Windows/Desactivar tareas programadas.md",
+    "Características de Windows/Configuración del sistema (MSConfig).md",
+    "CPU/Deshabilitar servicios.md",
+    "Energía/Editar plan de energía.md",
+    "Energía/Opciones avanzadas de energía.md",
+    "CPU/Aplicaciones de inicio.md",
     "IMG/Adjust-the-appearance-and-performance-of-Windows-advanced.png",
     "IMG/Task-Scheduler.png",
     "IMG/Windows-memory-diagnostic.png",
     "IMG/Msconfig-services.png",
     "CPU/Opciones de rendimiento.md",
     "CPU/Temporizador de eventos de alta precisión.md",
-    "CPU/Deshabilitar servicios.md",
     "IMG/Adjust-the-appearance-and-performance-of-Windows-visual-effects.png",
     "IMG/Defragment-and-optimize-drives.png",
     "IMG/Optionalfeatures.png",
