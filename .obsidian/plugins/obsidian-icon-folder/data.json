@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiReadme",
       "FarWindowRestore",
       "SiGooglecloudstorage",
       "SiWindowsterminal",
-      "LiImages",
-      "LiBatteryCharging"
+      "LiImages"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,6 @@
   "IMG": "LiImages",
   "CMD": "SiWindowsterminal",
   "Almacenamiento": "SiGooglecloudstorage",
-  "Características de Windows": "FarWindowRestore"
+  "Características de Windows": "FarWindowRestore",
+  "README.md": "SiReadme"
 }
