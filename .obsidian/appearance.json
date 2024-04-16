@@ -7,5 +7,6 @@
   "nativeMenus": true,
   "monospaceFontFamily": "Inter",
   "theme": "obsidian",
-  "translucency": true
+  "translucency": true,
+  "baseFontSize": 16
 }
