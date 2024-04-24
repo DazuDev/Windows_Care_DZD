@@ -2,7 +2,7 @@
   "accentColor": "#ff0019",
   "cssTheme": "Obsidian Nord",
   "textFontFamily": "Futura",
-  "interfaceFontFamily": "Futura",
+  "interfaceFontFamily": "Inter",
   "showViewHeader": true,
   "nativeMenus": true,
   "monospaceFontFamily": "Inter",

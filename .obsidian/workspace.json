@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ca5800b743c4081",
+        "id": "7850d7d683ad4574",
         "type": "tabs",
         "children": [
           {
-            "id": "625e9fc8893cc98b",
+            "id": "2d73377f639968b7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -130,18 +130,18 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "625e9fc8893cc98b",
+  "active": "2d73377f639968b7",
   "lastOpenFiles": [
+    "Almacenamiento/Cuidado del almacenamiento.md",
+    "Almacenamiento/Desfragmentar y Optimizar unidades.md",
+    "CMD/Verificar la integridad de Windows.md",
+    "Energía/Editar plan de energía.md",
     "Características de Windows/Funciones de Windows.md",
     "Características de Windows/Diagnostico de memoria en Windows.md",
     "Características de Windows/Desactivar tareas programadas.md",
     "Características de Windows/Configuración del sistema (MSConfig).md",
-    "Almacenamiento/Desfragmentar y Optimizar unidades.md",
-    "Almacenamiento/Cuidado del almacenamiento.md",
-    "CMD/Verificar la integridad de Windows.md",
     "README.md",
     "CPU/Deshabilitar servicios.md",
-    "Energía/Editar plan de energía.md",
     "Energía/Opciones avanzadas de energía.md",
     "CPU/Aplicaciones de inicio.md",
     "IMG/Adjust-the-appearance-and-performance-of-Windows-advanced.png",
