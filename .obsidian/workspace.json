@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0359b14b36c6d299",
+        "id": "9ca5800b743c4081",
         "type": "tabs",
         "children": [
           {
-            "id": "0ea3ca5f7960c89c",
+            "id": "625e9fc8893cc98b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -130,15 +130,16 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "0ea3ca5f7960c89c",
+  "active": "625e9fc8893cc98b",
   "lastOpenFiles": [
-    "Características de Windows/Diagnostico de memoria de Windows.md",
-    "Características de Windows/Desactivar tareas programadas.md",
     "Características de Windows/Funciones de Windows.md",
+    "Características de Windows/Diagnostico de memoria en Windows.md",
+    "Características de Windows/Desactivar tareas programadas.md",
     "Características de Windows/Configuración del sistema (MSConfig).md",
     "Almacenamiento/Desfragmentar y Optimizar unidades.md",
     "Almacenamiento/Cuidado del almacenamiento.md",
     "CMD/Verificar la integridad de Windows.md",
+    "README.md",
     "CPU/Deshabilitar servicios.md",
     "Energía/Editar plan de energía.md",
     "Energía/Opciones avanzadas de energía.md",
@@ -160,7 +161,6 @@
     "CMD",
     "Energía.md",
     "Energía",
-    "README.md",
     "IMG",
     "CPU",
     "Untitled 2.canvas",
